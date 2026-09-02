@@ -15,6 +15,10 @@ Aplicação educacional em Python com interface gráfica para inventariar dispos
 
 > Use somente em redes próprias ou para as quais você tenha autorização explícita.
 
+## Demonstração
+
+![Demo do Home Network Security Scanner](demo_zayan.gif)
+
 ## Requisitos
 
 - Python 3.10 ou superior
